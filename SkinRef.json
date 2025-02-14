@@ -1,0 +1,24 @@
+{
+    "Name":"Gringle Guff to Caper (White)",
+    "Icon": "https://media.fortniteapi.io/images/18cf0d73615c846ed21d8bd74a1751ba/transparent.png",
+    "Swapicon": "https://media.fortniteapi.io/images/b6bb174b14d61092bf940989281a3722/transparent.png", 
+    "Message":"Made By Nezy",
+    "Assets":[
+       {
+          "AssetPath":"/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_LRG_Comet",
+          "AssetPathTo":"/MeshCosmetics/Jumpsuit/F_MED_Jumpsuit_Scrap/CP/CP_Athena_Head_F_Jumpsuit_Scrap_Mutable"
+       },
+       {
+         "AssetPath":"/BRCosmetics/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_LRG_CometWinter",
+         "AssetPathTo":"/MeshCosmetics/Jumpsuit/F_MED_Jumpsuit_Scrap/CP/CP_Athena_Body_F_Jumpsuit_Scrap_Mutable"
+       },
+       {
+         "AssetPath":"/BRCosmetics/Characters/CharacterParts/FaceAccessories/CP_M_LRG_CometWinter_FaceAcc",
+         "AssetPathTo":"/Game/Characters/CharacterParts/FaceAccessories/CP_M_FaceAcc_Empty"
+       },
+       {
+         "AssetPath":"/BRCosmetics/Athena/Heroes/Hero_CometWinter",
+         "AssetPathTo":"/MeshCosmetics/Jumpsuit/F_MED_Jumpsuit_Scrap/Hero_Jumpsuit_Scrap"
+      }
+   ]
+}

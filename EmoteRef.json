@@ -1,0 +1,54 @@
+{
+  "Name": "Lil'T-6 Shuttle To Business Hips (Ballin') By Mustard Ft'Rody Ricch",
+  "Icon": "https://i.imgur.com/NO5Bs1B.png",
+  "Swapicon": "https://fortnite.gg/img/items/10495/icon.png?1",
+  "Message": "Made by Zer0Cipher!",
+  "Assets": [
+    {
+      "AssetPath": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_SmartHyena",
+      "AssetPathTo": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Athena/Items/Cosmetics/Dances/EID_HipToBeSquare",
+      "Swaps": [
+        {
+          "type": "string",
+          "search": "Cosmetics.Filter.Season.9",
+          "replace": "Cosmetics.Filter.Season.1"
+        },
+        {
+          "type": "string",
+          "search": "/BRCosmetics/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-HipToBeSquare.T-Icon-Emotes-E-HipToBeSquare",
+          "replace": "/Game/Emotes/Ballin/Icons/T_Icon_Emotes_Ballin.T_Icon_Emotes_Ballin",
+          "UEFN": true
+        }
+      ]
+    },
+    {
+      "AssetPath": "/Game/Athena/Sounds/Emotes/HipToBeSquare/Emote_HipToBeSquare_Music_Cue",
+      "Swaps": [
+        {
+          "type": "string",
+          "search": "/Game/Athena/Sounds/Emotes/HipToBeSquare/Emote_HipToBeSquare_Music_Loop_01.Emote_HipToBeSquare_Music_Loop_01",
+          "replace": "/Game/Emotes/Ballin/Sounds/Ballin_.Ballin_",
+          "UEFN": true
+        }
+      ]
+    },
+    {
+      "AssetPath": "/Game/Athena/Sounds/Emotes/HipToBeSquare/Emote_HipToBeSquare_Music_3p_Cue",
+      "Swaps": [
+          {
+          "type": "string",
+          "search": "/Game/Athena/Sounds/Emotes/HipToBeSquare/Emote_HipToBeSquare_Music_Loop_01.Emote_HipToBeSquare_Music_Loop_01",
+          "replace": "/Game/Emotes/Ballin/Sounds/Ballin_.Ballin_",
+          "UEFN": true
+                            
+              
+        }
+      ]
+    }
+  ],
+  "Downloadables": [
+    {
+      "zip": "https://cdn.discordapp.com/attachments/1190721661394243596/1192509191076716624/FortniteGamePaks.zip?ex=65a955ba&is=6596e0ba&hm=f790e38d39fcdb3d030c186382fe288b8d515717aaf7c530ccdc05df76f5605b&"
+    }
+  ]
+}

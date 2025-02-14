@@ -153,7 +153,7 @@ def rd_to_json(FILEPATH):
     #make json
     try:
         with open(FILENAME+".json", "w", encoding="utf-16") as JSONFILE:
-            json.dump(FinalDict, JSONFILE)
+            json.dump(FinalDict, JSONFILE, indent=4)
     except:
         print("Couldn't open JSON file.")
 

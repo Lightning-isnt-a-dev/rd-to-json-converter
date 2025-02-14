@@ -1,0 +1,14 @@
+{
+    "Name": "Default Pickaxe to Stellar Axe",
+    "Icon": "https://static.wikia.nocookie.net/fortnite/images/6/6f/Stellar_Axe_-_Harvesting_Tool_-_Fortnite.png",
+    "Swapicon": "https://media.fortniteapi.io/images/2149460bed6da81cbc9a5c8ba2a0e4ff/transparent.png",
+    "Type": "Pickaxes",
+    "Message": "made by @noahhxyz#0001❤",
+    "Assets": [
+      {
+        "AssetPath": "/Game/Athena/Items/Weapons/WID_Harvest_Pickaxe_Athena_C_T01",
+        "AssetPathTo": "/Game/Athena/Items/Weapons/WID_Harvest_Pickaxe_Celestial",
+        "Swaps": null
+      }
+    ]
+  }

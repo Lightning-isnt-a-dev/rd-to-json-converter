@@ -1,0 +1,20 @@
+{
+    "Name": "Harley Quinn Nsfw",
+    "Icon": "https://cdn.discordapp.com/attachments/1180618865395380365/1185212681108586587/icon-removebg-preview.png?ex=658eca53&is=657c5553&hm=3bcb0a6a27e822444d49b393cb63d83b16eaf4a4539f2a295f687cff34ebb1ef&",
+    "Message": "made by rave",
+    "AssetPathTo": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_ExoSuit",
+    "Swaps": [
+       {
+          "type": "string",
+          "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_ExoSuit/Meshes/F_MED_ExoSuit.F_MED_ExoSuit",
+          "replace": "/HarleyQuinnNsfw/Meshes/harleyquinnnsfw.harleyquinnnsfw",
+          "UEFN": true
+       }
+    ],
+    "Type": "UEFN_Character",
+    "Downloadables": [
+       {
+          "zip": "https://github.com/ravefrr/a99a85cd-4aab-52ad-9996-d38eab7ba31c-c2FRvUv_TxAmWdKy5YNZkA/raw/main/a99a85cd-4aab-52ad-9996-d38eab7ba31c-c2FRvUv_TxAmWdKy5YNZkA.zip"
+       }
+    ]
+ }
